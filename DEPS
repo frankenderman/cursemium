@@ -238,26 +238,26 @@ vars = {
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling V8
   # and whatever else without interference from each other.
-  'v8_revision': '92532491febcb68e44444736ef37b91b8b6f77fb',
+  'v8_revision': 'd7513544531095ae60036f53b965b34c0fa56011',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling ANGLE
   # and whatever else without interference from each other.
-  'angle_revision': 'd2b4d9aec1590dae5c33625a30878b5bcf423527',
+  'angle_revision': '0cde45b7cbcc4fb271d3b0c0b8bf5848efc23b17',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling SwiftShader
   # and whatever else without interference from each other.
-  'swiftshader_revision': '91a9a020ca7622f2461db90ed6d22af8d40185a9',
+  'swiftshader_revision': 'aae98adc2222dcada4aa952cccad48ab08e34004',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling PDFium
   # and whatever else without interference from each other.
-  'pdfium_revision': 'f15af61d9d2a8213cf9d8cddfe9374b85a8e9a83',
+  'pdfium_revision': '7d75963576e0170b3e3f26b9e44c839231b11736',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling BoringSSL
   # and whatever else without interference from each other.
   #
   # Note this revision should be updated with
   # third_party/boringssl/roll_boringssl.py, not roll-dep.
-  'boringssl_revision': '69030a0ceabfe69c58cb2b83d9d4852333e3d0c2',
+  'boringssl_revision': '45b8d7bbd771cbf7e116db2ba1f1cc7af959497e',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling google-toolbox-for-mac
   # and whatever else without interference from each other.
